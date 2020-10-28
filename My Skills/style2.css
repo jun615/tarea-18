@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #011425;
+}
+header {
+  color: white;
+  display: flex;
+  p
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+  position: relative;
+}
